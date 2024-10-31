@@ -1,2 +1,3 @@
 # Oaxaca
-Student: 24940304
+
+add details 
