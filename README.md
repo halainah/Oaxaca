@@ -5,7 +5,7 @@ This code recreates an original image taken of the streetscape in Oaxaca, Mexico
 
 Technologies Used
 -
-- The project is run using the Processing environment
+- The project is run using the Processing environment using Java mode.
 
 Features
 -
@@ -29,7 +29,7 @@ Setup
 -
 1. This project is written using the Processing environment.
 2. Download and install Processing.
-3. Copy the code into the Processing IDE.
+3. Copy the code into the Processing IDE in Java mode.
 4. Press the Run button to view the image.
 
 Usage 
