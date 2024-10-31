@@ -27,10 +27,10 @@ Completed works
 
 Setup
 -
-This project is written using the Processing environment.
-Download and install Processing.
-Copy the code into the Processing IDE.
-Press the Run button to view the scene.
+1. This project is written using the Processing environment.
+2. Download and install Processing.
+3. Copy the code into the Processing IDE.
+4. Press the Run button to view the image.
 
 Usage 
 -
