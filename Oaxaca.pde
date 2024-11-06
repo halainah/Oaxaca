@@ -29,14 +29,14 @@ void draw() {
   
   // Draw building
   fill(300, 105, 150); // Hot pink colour for the top
-  rect(150, height - 550, 300, 375); // Hot pink part (200 pixels high)
+  rect(150, height - 550, 300, 375); // Hot pink part 
 
   fill(139, 0, 0); // Red colour for the bottom
-  rect(150, height - 187.5, 300, 120); // Red part (87.5 pixels high)
+  rect(150, height - 187.5, 300, 120); // Red part 
 
   // Draw  roof level 1 (red)
   fill(108, 20, 9); // Dark red colour for the roof
-  rect(150, height - 550 - 20, 300, 20); // Flat roof (20 pixels high)
+  rect(150, height - 550 - 20, 300, 20); // Flat roof 
 
 // Draw roof detail
   fill(108, 20, 9); // dark red colour 
@@ -50,7 +50,7 @@ void draw() {
   
       // Draw  roof level 3 (thin red trim part)
   fill(108, 20, 9); // red
-  rect(150, height - 575 - 8, 300, 5); // Flat roof (20 pixels high)
+  rect(150, height - 575 - 8, 300, 5); // Flat roof 
 
 
   //  off-white and charcoal grey (flashes every 2 seconds)
